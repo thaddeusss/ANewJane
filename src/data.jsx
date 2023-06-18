@@ -252,7 +252,7 @@ export const skills = [
   },
 ];
 
-export const portfolio = [
+export const Portfolio = [
   {
     id: 1,
     img: Work1,
