@@ -45,8 +45,6 @@ const about = () => {
           <Skills />
         </div>
       </section>
-
-      <div className="separator"></div>
     </main>
   );
 };
