@@ -3,8 +3,8 @@ import {
   FaUser,
   FaFolderOpen,
   FaEnvelopeOpen,
-  FaBriefcase,
-  FaGraduationCap,
+  // FaBriefcase,
+  // FaGraduationCap,
   FaCode,
 } from "react-icons/fa";
 
@@ -17,16 +17,16 @@ import Work4 from "./assets/imgProj/project-4.jpeg";
 import Work5 from "./assets/imgProj/project-5.jpg";
 import Work6 from "./assets/imgProj/project-6.jpg";
 
-import Theme1 from "./assets/imgProj/purple.png";
-import Theme2 from "./assets/imgProj/red.png";
-import Theme3 from "./assets/imgProj/blueviolet.png";
-import Theme4 from "./assets/imgProj/blue.png";
-import Theme5 from "./assets/imgProj/goldenrod.png";
-import Theme6 from "./assets/imgProj/magenta.png";
-import Theme7 from "./assets/imgProj/yellowgreen.png";
-import Theme8 from "./assets/imgProj/orange.png";
-import Theme9 from "./assets/imgProj/green.png";
-import Theme10 from "./assets/imgProj/yellow.png";
+import Theme1 from "./assets/imgProj/icons8-heart-32.jpg.png";
+import Theme2 from "./assets/imgProj/icons8-heart-32.png";
+import Theme3 from "./assets/imgProj/icons8-heart-32..png";
+import Theme4 from "./assets/imgProj/icons8-heart-50...png";
+import Theme5 from "./assets/imgProj/icons8-heart-50.....png";
+import Theme6 from "./assets/imgProj/32pink.png";
+import Theme7 from "./assets/imgProj/32green.png";
+import Theme8 from "./assets/imgProj/32blakred.png";
+import Theme9 from "./assets/imgProj/32lightgreen.png";
+import Theme10 from "./assets/imgProj/32yellow.png";
 
 export const links = [
   {
@@ -62,61 +62,37 @@ export const personalInfo = [
   {
     id: 1,
     title: "First Name : ",
-    description: "Steve",
+    description: "Jarkyn",
   },
 
   {
     id: 2,
     title: "Last Name : ",
-    description: "Milner",
+    description: "Nurbek k.",
   },
 
   {
     id: 3,
     title: "Age : ",
-    description: "27 Years",
+    description: "17",
   },
 
   {
     id: 4,
-    title: "Nationality : ",
-    description: "Tunisian",
+    title: "Address : ",
+    description: "Arashan)",
   },
 
   {
     id: 5,
-    title: "Freelance : ",
-    description: "Available",
+    title: "Phone : ",
+    description: "Why do you need it, huh?)))",
   },
 
   {
     id: 6,
-    title: "Address : ",
-    description: "Tunis",
-  },
-
-  {
-    id: 7,
-    title: "Phone : ",
-    description: "+21621184010",
-  },
-
-  {
-    id: 8,
-    title: "Email : ",
-    description: "you@mail.com",
-  },
-
-  {
-    id: 9,
-    title: "Skype : ",
-    description: "steve.milner",
-  },
-
-  {
-    id: 10,
     title: "Langages : ",
-    description: "French, English",
+    description: "Russian, Kyrgyz, English",
   },
 ];
 
@@ -149,50 +125,50 @@ export const stats = [
 export const skills = [
   {
     id: 1,
-    title: "Html",
-    percentage: "25",
+    title: "Mind",
+    percentage: "100 ",
   },
 
   {
     id: 2,
-    title: "Javascript",
-    percentage: "89",
+    title: "Attraction",
+    percentage: "Ꝏ ",
   },
 
   {
     id: 3,
-    title: "Css",
-    percentage: "70",
+    title: "Stunning",
+    percentage: "Ꝏ ",
   },
 
   {
     id: 4,
-    title: "Php",
-    percentage: "66",
+    title: "Compassion",
+    percentage: "?? ",
   },
 
   {
     id: 5,
-    title: "Wordpress",
-    percentage: "95",
+    title: "Sense of humor ",
+    percentage: "88.8 ",
   },
 
   {
     id: 6,
-    title: "Jquery",
-    percentage: "50",
+    title: "Beauty ",
+    percentage: "Ꝏ ",
   },
 
   {
     id: 7,
-    title: "Angular",
-    percentage: "65",
+    title: "Us ",
+    percentage: "69 ",
   },
 
   {
     id: 8,
-    title: "React",
-    percentage: "45",
+    title: "Romanticism ",
+    percentage: "100 ",
   },
 ];
 

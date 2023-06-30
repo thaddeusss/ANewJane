@@ -25,7 +25,7 @@ const home = () => {
               </svg>
               {/* 🤍 */}
             </span>
-            The Poet.
+            Is My Love.
           </h1>
 
           <p className="home__description">

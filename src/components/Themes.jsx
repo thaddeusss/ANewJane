@@ -6,6 +6,7 @@ import { BsSun, BsMoon } from "react-icons/bs";
 import "./themes.css";
 import { useState } from "react";
 import { useEffect } from "react";
+import song from "../assets/music/The Neighbourhood - Reflections.mp3";
 
 const getStorageColor = () => {
   let color = "hsl(4, 93%, 54%)";
@@ -81,6 +82,9 @@ const Themes = () => {
         >
           &times;
         </div>
+        <audio id="autoPlay" loop preload="auto" controls>
+          <source autoPlay src={song} type="audio/mpeg" />
+        </audio>
       </div>
     </div>
   );

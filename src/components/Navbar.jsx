@@ -27,6 +27,7 @@ const Navbar = () => {
               </li>
             );
           })}
+          {/* <p className="nav__desc">s</p> */}
         </ul>
       </div>
 
