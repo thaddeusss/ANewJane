@@ -2,7 +2,6 @@ import React from "react";
 import Info from "../../components/Info";
 import Stats from "../../components/Stats";
 import { FaDownload } from "react-icons/fa";
-// import CV from "../../assets/imgProj/steve-Cv.pdf";
 import Skills from "../../components/Skills";
 import "./about.css";
 import { Link } from "react-router-dom";
@@ -41,7 +40,9 @@ const about = () => {
 
       <section className="skills">
         <h3 className="section__subtitle subtitle__center">Skills</h3>
-        <h3 style={{ fontSize: 10, textAlign: "center" }}>just my opinion</h3>
+        <h3 style={{ fontSize: 10, textAlign: "center" }}>
+          don't swear, pWease))
+        </h3>
 
         <div className="skills__container grid">
           <Skills />

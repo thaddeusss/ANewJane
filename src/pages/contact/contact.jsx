@@ -55,13 +55,13 @@ const contact = () => {
 
         <div className="contact__data">
           <h2 className="data__title">
-            Get In <span>Touch</span>
+            Con<span>tact</span>
           </h2>
-          <h3 className="contact__title">Don't be Shy !</h3>
+          <h3 className="contact__title">Talk to me</h3>
           <p className="home__description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-            reprehenderit exercitationem eveniet amet cum esse autem, dolorum
-            cumque accusantium saepe.
+            На данной странице вы можете обнаружить иконки различных социальных
+            сетей. Кликнув по ним, вы сможете перейти на мои профили в этих
+            социальных сетях (´｡• ᵕ •｡`)
           </p>
           {/* <div className="contact__info">
               <div className="info__item">
