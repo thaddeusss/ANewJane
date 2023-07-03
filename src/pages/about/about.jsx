@@ -23,7 +23,12 @@ const about = () => {
               <Info />
             </ul>
 
-            <Link to="/" className="button">
+            <Link
+              to="https://www.youtube.com/watch?v=OJF7iN9ZNL4&list=RDMMOJF7iN9ZNL4&start_radio=1"
+              className="button"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Download CV
               <span className="button__icon">
                 <FaDownload />
