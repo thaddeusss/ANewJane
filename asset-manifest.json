@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newJane/static/css/main.4e114db4.css",
-    "main.js": "/newJane/static/js/main.5873d123.js",
+    "main.js": "/newJane/static/js/main.484dbda1.js",
     "static/media/The Neighbourhood - Reflections.mp3": "/newJane/static/media/The Neighbourhood - Reflections.69fff3d1d89a28a6c261.mp3",
     "static/media/photo32.jpg": "/newJane/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/newJane/static/media/photo33.c3a4b80e537f4b438587.jpg",
@@ -50,10 +50,10 @@
     "static/media/close.svg": "/newJane/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
     "index.html": "/newJane/index.html",
     "main.4e114db4.css.map": "/newJane/static/css/main.4e114db4.css.map",
-    "main.5873d123.js.map": "/newJane/static/js/main.5873d123.js.map"
+    "main.484dbda1.js.map": "/newJane/static/js/main.484dbda1.js.map"
   },
   "entrypoints": [
     "static/css/main.4e114db4.css",
-    "static/js/main.5873d123.js"
+    "static/js/main.484dbda1.js"
   ]
 }
