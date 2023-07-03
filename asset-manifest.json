@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new-jane/static/css/main.8bb853fd.css",
-    "main.js": "/new-jane/static/js/main.37ee8c28.js",
+    "main.css": "/new-jane/static/css/main.b6c87605.css",
+    "main.js": "/new-jane/static/js/main.e336a11c.js",
     "static/media/The Neighbourhood - Reflections.mp3": "/new-jane/static/media/The Neighbourhood - Reflections.69fff3d1d89a28a6c261.mp3",
     "static/media/photo32.jpg": "/new-jane/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/new-jane/static/media/photo33.c3a4b80e537f4b438587.jpg",
@@ -49,11 +49,11 @@
     "static/media/photo42.jpg": "/new-jane/static/media/photo42.35f40ef67334d1c1ddc9.jpg",
     "static/media/close.svg": "/new-jane/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
     "index.html": "/new-jane/index.html",
-    "main.8bb853fd.css.map": "/new-jane/static/css/main.8bb853fd.css.map",
-    "main.37ee8c28.js.map": "/new-jane/static/js/main.37ee8c28.js.map"
+    "main.b6c87605.css.map": "/new-jane/static/css/main.b6c87605.css.map",
+    "main.e336a11c.js.map": "/new-jane/static/js/main.e336a11c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bb853fd.css",
-    "static/js/main.37ee8c28.js"
+    "static/css/main.b6c87605.css",
+    "static/js/main.e336a11c.js"
   ]
 }
