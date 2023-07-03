@@ -23,7 +23,12 @@ const about = () => {
               <Info />
             </ul>
 
-            <Link to="/" className="button">
+            <Link
+              to="https://i.pinimg.com/originals/19/89/c4/1989c4536a86b4482a9016ffdfd4545e.jpg"
+              className="button"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Download CV
               <span className="button__icon">
                 <FaDownload />
