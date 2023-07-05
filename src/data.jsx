@@ -210,24 +210,6 @@ export const skills = [
 
 export const Portfolio = [
   {
-    id: 1,
-    img: Work1,
-    title: "Pinterest",
-    details: [
-      {
-        icon: <FaCalendarTimes />,
-        title: "Date : ",
-        desc: "January 4, 2022",
-      },
-      {
-        icon: <FiUser />,
-        title: "Photo : ",
-        desc: "four Jarkyn))",
-      },
-    ],
-  },
-
-  {
     id: 2,
     img: Work2,
     title: "High school",
@@ -997,6 +979,24 @@ export const Portfolio = [
         icon: <FiUser />,
         title: "Photo : ",
         desc: "Тебе так идет галстук :D",
+      },
+    ],
+  },
+
+  {
+    id: 1,
+    img: Work1,
+    title: "Pinterest",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "January 4, 2022",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "four Jarkyn))",
       },
     ],
   },

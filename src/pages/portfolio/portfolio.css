@@ -107,8 +107,8 @@
 
 .modal__img {
   width: 100%;
-  border-radius: 49%;
+  border-radius: 15px;
   height: 400px;
-  object-fit: contain;
-  /* object-fit: cover; */
+  /* object-fit: contain; */
+  object-fit: cover;
 }
