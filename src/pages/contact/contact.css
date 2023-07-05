@@ -4,18 +4,15 @@
   column-gap: 2rem;
   align-items: center;
 }
-
 .contact__socials {
   display: grid;
   grid-template-columns: max-content;
   row-gap: 1rem;
 }
-
 .contact__title {
   font-size: var(--h3-font-size);
   font-weight: var(--weight-600);
 }
-
 .contact__img {
   background: url(../../assets/img/photo31.jpg);
   border-radius: 50%;
@@ -28,7 +25,6 @@
   height: 300px;
   animation: profile__animate-contact 8s ease-in-out infinite 1s;
 }
-
 @keyframes profile__animate-contact {
   0% {
     border-radius: 70% 50% 40% 80%/70% 40% 80% 50%;
@@ -40,7 +36,6 @@
     border-radius: 70% 50% 40% 80%/70% 40% 80% 50%;
   }
 }
-
 .contact__social-link {
   background-color: var(--container-color);
   color: var(--title-color);
@@ -51,17 +46,14 @@
   line-height: 44px;
   transition: all 0.3s ease;
 }
-
 .contact__social-link:hover {
   background-color: var(--first-color);
   color: var(--text-white);
 }
-
 .data__title {
   font-size: var(--big-font-size);
   font-weight: var(--weight-800);
 }
-
 .data__title span {
   color: var(--first-color);
 }
@@ -73,14 +65,15 @@
   display: flex;
   justify-content: space-around;
   padding-top: 2.5rem;
+  gap: 20px;
 }
 .world {
   border-radius: 50%;
-  /* box-shadow: 0 0 40px var(--text-color); */
   box-shadow: 0 0 100px var(--first-color);
+  cursor: pointer;
 }
 .error-box img {
-  height: 80px;
+  height: 200px;
 }
 @keyframes world {
   from {
@@ -96,7 +89,6 @@
     grid-template-columns: 100px repeat(2, 1fr);
     column-gap: 1.25rem;
   }
-
   .contact__img {
     width: 250px;
     height: 250px;
@@ -115,8 +107,11 @@
   .contact__data {
     grid-column: 1/3;
   }
+  .error {
+    flex-direction: column;
+    align-items: center;
+  }
 }
-
 @media screen and (max-width: 350px) {
   .contact__img {
     width: 220px;
