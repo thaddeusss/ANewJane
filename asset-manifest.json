@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mistress/static/css/main.cbf41eb8.css",
+    "main.css": "/Mistress/static/css/main.ca568e6f.css",
     "main.js": "/Mistress/static/js/main.c00c98a9.js",
     "static/media/The Neighbourhood - Reflections.mp3": "/Mistress/static/media/The Neighbourhood - Reflections.69fff3d1d89a28a6c261.mp3",
     "static/media/photo32.jpg": "/Mistress/static/media/photo32.95e96069f694f35c0f9a.jpg",
@@ -49,11 +49,11 @@
     "static/media/photo42.jpg": "/Mistress/static/media/photo42.35f40ef67334d1c1ddc9.jpg",
     "static/media/close.svg": "/Mistress/static/media/close.17825c74c3c6b6934429010ee3f913fd.svg",
     "index.html": "/Mistress/index.html",
-    "main.cbf41eb8.css.map": "/Mistress/static/css/main.cbf41eb8.css.map",
+    "main.ca568e6f.css.map": "/Mistress/static/css/main.ca568e6f.css.map",
     "main.c00c98a9.js.map": "/Mistress/static/js/main.c00c98a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbf41eb8.css",
+    "static/css/main.ca568e6f.css",
     "static/js/main.c00c98a9.js"
   ]
 }
