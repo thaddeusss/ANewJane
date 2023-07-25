@@ -11,7 +11,7 @@ const about = () => {
     <main className="section container">
       <section className="about">
         <h2 className="section__title">
-          About <span>Me</span>
+          Abo<span>ut</span>
         </h2>
 
         <div className="about__container grid">
@@ -23,7 +23,7 @@ const about = () => {
               <Info />
             </ul>
 
-            <Link
+            {/* <Link
               to="https://i.pinimg.com/originals/19/89/c4/1989c4536a86b4482a9016ffdfd4545e.jpg"
               className="button"
               target="_blank"
@@ -33,7 +33,7 @@ const about = () => {
               <span className="button__icon">
                 <FaDownload />
               </span>
-            </Link>
+            </Link> */}
           </div>
         </div>
         <div className="stats grid">

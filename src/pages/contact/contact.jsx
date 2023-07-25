@@ -25,7 +25,7 @@ const contact = () => {
             <FaInstagram />
           </a>
           <a
-            href="https://t.me/zholdubaevva"
+            href="https://t.me/witchzharkyn"
             className="contact__social-link"
             target="_blank"
             rel="noopener noreferrer"
@@ -54,11 +54,11 @@ const contact = () => {
           <h2 className="data__title">
             Con<span>tact</span>
           </h2>
-          <h3 className="contact__title">Talk to me</h3>
+          {/* <h3 className="contact__title">Talk to me</h3> */}
           <p className="home__description">
-            На данной странице вы можете обнаружить иконки различных социальных
-            сетей. Кликнув по ним, вы сможете перейти на мои профили в этих
-            социальных сетях (´｡• ᵕ •｡`)
+            Здесь вы сможете обнаружить чудесные иконки различных социальных
+            сетей! Прикоснитесь к ним и волшебным образом перенесетесь в мои
+            волшебные профили в этих сетях (´｡• ᵕ •｡`)
           </p>
           {/* <div className="contact__info">
               <div className="info__item">

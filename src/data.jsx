@@ -3,6 +3,8 @@ import {
   FaUser,
   FaFolderOpen,
   FaEnvelopeOpen,
+  FaContao,
+  FaPhoneAlt,
   FaCalendarTimes,
 } from "react-icons/fa";
 
@@ -86,11 +88,64 @@ export const links = [
     path: "/portfolio",
   },
 
+  // {
+  //   id: 4,
+  //   name: "Histories",
+  //   icon: <FaEnvelopeOpen className="nav__icon" />,
+  //   path: "/histories",
+  // },
+
+  {
+    id: 5,
+    name: "Contact",
+    icon: <FaPhoneAlt className="nav__icon" />,
+    path: "/contact",
+  },
+];
+
+export const stories = [
+  {
+    id: 1,
+    image: Work29,
+    title: "Jakulya",
+    description:
+      "Здесь вы сможете обнаружить чудесные иконки различных социальных сетей! Прикоснитесь к ним и волшебным образом перенесетесь в мои    волшебные профили в этих сетях (´｡• ᵕ •｡`)",
+  },
+
+  {
+    id: 2,
+    image: Work19,
+    title: "Jakulya",
+    description:
+      "Здесь вы сможете обнаружить чудесные иконки различных социальных сетей! Прикоснитесь к ним и волшебным образом перенесетесь в мои    волшебные профили в этих сетях (´｡• ᵕ •｡`)",
+  },
+
+  {
+    id: 3,
+    image: Work39,
+    title: "Jakulya",
+    description: "I love my Hero",
+  },
+
   {
     id: 4,
-    name: "Contact",
-    icon: <FaEnvelopeOpen className="nav__icon" />,
-    path: "/contact",
+    image: Work9,
+    title: "Jakulya",
+    description: "I love my Hero",
+  },
+
+  {
+    id: 5,
+    image: Work9,
+    title: "Jakulya",
+    description: "I love my Hero",
+  },
+
+  {
+    id: 6,
+    image: Work9,
+    title: "Jakulya",
+    description: "I love my Hero",
   },
 ];
 
@@ -197,7 +252,7 @@ export const skills = [
 
   {
     id: 7,
-    title: "Us ",
+    title: "Us or not? ",
     percentage: "69 ",
   },
 

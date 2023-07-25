@@ -6,7 +6,7 @@ import { BsSun, BsMoon } from "react-icons/bs";
 import "./themes.css";
 import { useState } from "react";
 import { useEffect } from "react";
-import song from "../assets/music/The Neighbourhood - Reflections.mp3";
+import song from "../assets/music/Chris Isaak - Wicked Game.mp3";
 
 const getStorageColor = () => {
   let color = "hsl(4, 93%, 54%)";
@@ -67,7 +67,7 @@ const Themes = () => {
           {theme === "light-theme" ? <BsMoon /> : <BsSun />}
         </div>
 
-        <h3 className="style__switcher-title">Style Switcher</h3>
+        <h3 className="style__switcher-title">Color Switcher</h3>
         <div className="style__switcher-items">
           {themes.map((theme, index) => {
             return (
