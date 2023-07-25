@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Mistress/static/css/main.ca568e6f.css",
-    "main.js": "/Mistress/static/js/main.c00c98a9.js",
-    "static/media/The Neighbourhood - Reflections.mp3": "/Mistress/static/media/The Neighbourhood - Reflections.69fff3d1d89a28a6c261.mp3",
+    "main.css": "/Mistress/static/css/main.2fac878d.css",
+    "main.js": "/Mistress/static/js/main.5dcc7f38.js",
+    "static/media/Chris Isaak - Wicked Game.mp3": "/Mistress/static/media/Chris Isaak - Wicked Game.1a9376860d044965fa47.mp3",
     "static/media/photo32.jpg": "/Mistress/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/Mistress/static/media/photo33.c3a4b80e537f4b438587.jpg",
     "static/media/photo31.jpg": "/Mistress/static/media/photo31.20c2b36b1d8b7466d104.jpg",
@@ -49,11 +49,11 @@
     "static/media/photo42.jpg": "/Mistress/static/media/photo42.35f40ef67334d1c1ddc9.jpg",
     "static/media/close.svg": "/Mistress/static/media/close.17825c74c3c6b6934429010ee3f913fd.svg",
     "index.html": "/Mistress/index.html",
-    "main.ca568e6f.css.map": "/Mistress/static/css/main.ca568e6f.css.map",
-    "main.c00c98a9.js.map": "/Mistress/static/js/main.c00c98a9.js.map"
+    "main.2fac878d.css.map": "/Mistress/static/css/main.2fac878d.css.map",
+    "main.5dcc7f38.js.map": "/Mistress/static/js/main.5dcc7f38.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca568e6f.css",
-    "static/js/main.c00c98a9.js"
+    "static/css/main.2fac878d.css",
+    "static/js/main.5dcc7f38.js"
   ]
 }
