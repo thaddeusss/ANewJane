@@ -6,7 +6,7 @@ import { BsSun, BsMoon } from "react-icons/bs";
 import "./themes.css";
 import { useState } from "react";
 import { useEffect } from "react";
-import song from "../assets/music/Chris Isaak - Wicked Game.mp3";
+import song from "../assets/music/Faye Webster - Kingston.mp3";
 
 const getStorageColor = () => {
   let color = "hsl(4, 93%, 54%)";

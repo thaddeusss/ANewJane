@@ -54,17 +54,41 @@ import Work41 from "./assets/img/photo42.jpg";
 import Work42 from "./assets/img/photo43.jpg";
 import Work43 from "./assets/img/photo44.jpg";
 import Work44 from "./assets/img/photo45.jpg";
+import Work45 from "./assets/img/photo46.jpg";
+import Work46 from "./assets/img/photo47.jpg";
+import Work47 from "./assets/img/photo48.jpg";
+import Work48 from "./assets/img/photo49.jpg";
+import Work49 from "./assets/img/photo50.jpg";
+import Work50 from "./assets/img/photo51.jpg";
+import Work51 from "./assets/img/photo52.jpg";
+import Work52 from "./assets/img/photo53.jpg";
+import Work53 from "./assets/img/photo54.jpg";
+import Work54 from "./assets/img/photo55.jpg";
+import Work55 from "./assets/img/photo56.jpg";
+import Work56 from "./assets/img/photo57.jpg";
+import Work57 from "./assets/img/photo58.jpg";
+import Work58 from "./assets/img/photo59.jpg";
+import Work59 from "./assets/img/photo60.jpg";
+import Work60 from "./assets/img/photo61.jpg";
+import Work61 from "./assets/img/photo62.jpg";
+import Work62 from "./assets/img/photo63.jpg";
+import Work63 from "./assets/img/photo64.jpg";
+import Work64 from "./assets/img/photo65.jpg";
+import Work65 from "./assets/img/photo66.jpg";
+import Work66 from "./assets/img/photo67.jpg";
 
-import Theme1 from "./assets/imgProj/icons8-heart-32.jpg.png";
-import Theme2 from "./assets/imgProj/icons8-heart-32.png";
+import Theme1 from "./assets/imgProj/icons8-heart-48.png";
+import Theme2 from "./assets/imgProj/blackred.png";
+///
 import Theme3 from "./assets/imgProj/icons8-heart-32..png";
-import Theme4 from "./assets/imgProj/icons8-heart-50...png";
-import Theme5 from "./assets/imgProj/icons8-heart-50.....png";
-import Theme6 from "./assets/imgProj/32pink.png";
-import Theme7 from "./assets/imgProj/32green.png";
-import Theme8 from "./assets/imgProj/32blakred.png";
-import Theme9 from "./assets/imgProj/32lightgreen.png";
-import Theme10 from "./assets/imgProj/32yellow.png";
+///
+import Theme4 from "./assets/imgProj/blue.png";
+import Theme5 from "./assets/imgProj/....png";
+import Theme6 from "./assets/imgProj/pink.png";
+import Theme7 from "./assets/imgProj/icons8-heart-48 (1).png";
+import Theme8 from "./assets/imgProj/icons8-heart-48 (2).png";
+import Theme9 from "./assets/imgProj/icons8-heart-48 (3).png";
+import Theme10 from "./assets/imgProj/icons8-heart-48 (4).png";
 
 export const links = [
   {
@@ -264,6 +288,406 @@ export const skills = [
 ];
 
 export const Portfolio = [
+  ////////////////! new images
+
+  {
+    id: 60,
+    img: Work60,
+    title: "First call(?)",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 1, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Такие красивые цветочки! И, кстати, ты тоже как мой маленький цветок...",
+      },
+    ],
+  },
+
+  {
+    id: 64,
+    img: Work64,
+    title: "Norwegian Wood!",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 23, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "На этом снимке солнечные лучи излучают свою нежность... и ты, подобно им, светишь так же ярко... так же ярко!",
+      },
+    ],
+  },
+
+  {
+    id: 50,
+    img: Work50,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 16, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Мне очень нравится, когда ты делишься со мной своими фотографиями! (. . ) :D",
+      },
+    ],
+  },
+
+  {
+    id: 52,
+    img: Work52,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 21, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты с такой легкостью и изяществом держишь руку у подбородка. Я вижу, что ты не опираешься на нее, но и не надавливаешь на челюсть. Это выглядит изысканно.",
+      },
+    ],
+  },
+
+  {
+    id: 59,
+    img: Work59,
+    title: "Just a pretty picture ",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August ??, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты словно расцветаешь и расцветаешь, и эта цепочка так хорошо смотрится на тебе)🤍🤍",
+      },
+    ],
+  },
+
+  {
+    id: 54,
+    img: Work54,
+    title: "In Naryn",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 25, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "when we go climbing the mountain together?🩷🩵",
+      },
+    ],
+  },
+
+  {
+    id: 45,
+    img: Work45,
+    title: "Shopping",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 11, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Nice t-shirt ^_^)",
+      },
+    ],
+  },
+
+  {
+    id: 46,
+    img: Work46,
+    title: "Shopping",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 11, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты выглядишь чудесно :D",
+      },
+    ],
+  },
+
+  {
+    id: 47,
+    img: Work47,
+    title: "Shopping",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 11, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "That t-shirt looks really good on u :D",
+      },
+    ],
+  },
+
+  {
+    id: 48,
+    img: Work48,
+    title: "School day",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 13, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Надеюсь, ты не надышалась краски в этот день) :D",
+      },
+    ],
+  },
+
+  {
+    id: 49,
+    img: Work49,
+    title: "Lake vacation ",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 16, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ваааа❤️✌✌",
+      },
+    ],
+  },
+
+  {
+    id: 51,
+    img: Work51,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 16, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "you're looking... you're looking right at me :))",
+      },
+    ],
+  },
+
+  {
+    id: 53,
+    img: Work53,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 21, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Я повернул голову на 90 градусов, чтобы взглянуть на тебя напрямую, и я уверен, что мне очень нравится этот вид)",
+      },
+    ],
+  },
+
+  {
+    id: 55,
+    img: Work55,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 30, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Мои глазааа...Я ведь могу так ослепнуть)",
+      },
+    ],
+  },
+
+  {
+    id: 56,
+    img: Work56,
+    title: "Ч/б",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 29, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты...Ты прекрасна!",
+      },
+    ],
+  },
+
+  {
+    id: 57,
+    img: Work57,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 30, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Эти фотки тоже мама фотографировала?😅",
+      },
+    ],
+  },
+
+  {
+    id: 58,
+    img: Work58,
+    title: "Lake vacation",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 30, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Обрати внимание, какие у тебя прекрасные волосы, посмотри, какая ты красавица.",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work61,
+    title: "Hair ponytail ",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 4, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Хочу повторить, что ты отлично выглядишь, когда у тебя волосы собраны в хвостик!!! ДАААААА)",
+      },
+    ],
+  },
+
+  {
+    id: 62,
+    img: Work62,
+    title: "In Naryn(?)...Norwegian Wood!",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 23, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Закрыв глаза, я словно переношусь туда, где вместе с тобой встречаю теплое солнышко, ласково согревающее меня, нас…",
+      },
+    ],
+  },
+
+  {
+    id: 63,
+    img: Work63,
+    title: "Уляля...",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 5, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты безусловно выглядишь прекрасно с волосами, будь то аккуратно завязанными в хвостик или нежно распущенными. Все стили подходят тебе идеально :D",
+      },
+    ],
+  },
+
+  {
+    id: 65,
+    img: Work65,
+    title: "Norwegian Wood!",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "August 23, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Norwegian Wood...I'll have to visit this place before I die)",
+      },
+    ],
+  },
+
+  {
+    id: 66,
+    img: Work66,
+    title: "With Photoshop",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "x n, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Возникло желание оставить это здесь. Впрочем, если оно не вызывает у тебя одобрения, я готов удалить его, лишь дай знать мне об этом",
+      },
+    ],
+  },
+
+  //////////! newmec
+
   {
     id: 2,
     img: Work2,
@@ -1061,60 +1485,62 @@ export const themes = [
   {
     id: 1,
     img: Theme1,
-    color: "hsl(252, 35%, 51%)",
+    color: "hsl(300, 1%, 85%)",
   },
 
   {
     id: 2,
     img: Theme2,
-    color: "hsl(4, 93%, 54%)",
+    color: "hsl(337, 98%, 22%)",
   },
 
+  ////////!
   {
     id: 3,
     img: Theme3,
     color: "hsl(271, 76%, 53%)",
   },
+  ////////!
 
   {
     id: 4,
     img: Theme4,
-    color: "hsl(225, 73%, 57%)",
+    color: "hsl(218, 30%, 50%)",
   },
 
   {
     id: 5,
     img: Theme5,
-    color: "hsl(43, 74%, 49%)",
+    color: "hsl(186, 35%, 32%)",
   },
 
   {
     id: 6,
     img: Theme6,
-    color: "hsl(339, 81%, 66%)",
+    color: "hsl(329, 100%, 50%)",
   },
 
   {
     id: 7,
     img: Theme7,
-    color: "hsl(80, 61%, 50%)",
+    color: "hsl(181, 90%, 19%)",
   },
 
   {
     id: 8,
     img: Theme8,
-    color: "hsl(19, 96%, 52%)",
+    color: "hsl(212, 100%, 50%)",
   },
 
   {
     id: 9,
     img: Theme9,
-    color: "hsl(88, 65%, 43%)",
+    color: "hsl(0, 100%, 59%)",
   },
 
   {
     id: 10,
     img: Theme10,
-    color: "hsl(42, 100%, 50%)",
+    color: "hsl(289, 78%, 21%)",
   },
 ];

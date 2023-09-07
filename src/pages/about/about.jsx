@@ -43,7 +43,7 @@ const about = () => {
 
       <div className="separator"></div>
 
-      <section className="skills">
+      {/* <section className="skills">
         <h3 className="section__subtitle subtitle__center">Skills</h3>
         <h3 style={{ fontSize: 10, textAlign: "center" }}>
           don't swear, pWease))
@@ -52,7 +52,7 @@ const about = () => {
         <div className="skills__container grid">
           <Skills />
         </div>
-      </section>
+      </section> */}
     </main>
   );
 };

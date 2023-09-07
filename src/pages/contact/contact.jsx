@@ -5,12 +5,16 @@ import {
   FaTelegramPlane,
   FaYoutube,
   FaTiktok,
+  FaSitemap,
   FaHome,
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
 const contact = () => {
   const handleClickImg = () => {
-    window.open("https://www.youtube.com/watch?v=nyuo9-OjNNg", "_blank");
+    window.open(
+      "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl?si=190a35c34cce4122",
+      "_blank"
+    );
   };
   return (
     <section className="contact section">
@@ -47,6 +51,14 @@ const contact = () => {
             rel="noopener noreferrer"
           >
             <FaTiktok />
+          </a>
+          <a
+            href="https://thaddeusss.github.io/Jane/"
+            className="contact__social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaSitemap />
           </a>
         </div>
         <div className="contact__img"></div>
@@ -129,31 +141,31 @@ const contact = () => {
           alt=""
           />
         </div> */}
-        <div className="error-box">
+        {/* <div className="error-box">
           <img
             className="world"
             src="https://i.pinimg.com/originals/de/68/a1/de68a10f13a95e7f412d79a2c3e5336b.gif"
             alt=""
           />
-        </div>
+        </div> */}
         <div className="error-box">
           <p>ClickMe</p>
           <img
             className="world"
-            src="https://i.pinimg.com/564x/66/07/ee/6607eea3d5e8761a112d00f39ab068c9.jpg"
+            src="https://images-x324mba9a4.s3.us-east-2.amazonaws.com/20828608/20828608-3.jpg"
             alt="CLICK ME"
             onClick={() => {
               handleClickImg();
             }}
           />
         </div>
-        <div className="error-box">
+        {/* <div className="error-box">
           <img
             className="world"
             src="https://i.pinimg.com/originals/78/6f/27/786f279b6c5684954e71b94c2f85ec9c.gif"
             alt=""
           />
-        </div>
+        </div> */}
         {/* <div className="error-box">
           <img
             className="world"
