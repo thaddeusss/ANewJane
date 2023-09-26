@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../assets/img/photo64.jpg";
+import Profile from "../../assets/img/photo57.jpg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import "./home.css";
@@ -29,11 +29,33 @@ const home = () => {
           </h1>
 
           <p className="home__description">
-            Завтра на экзамене по английскому, Жаркын, ты будешь сиять!💯 Верь в
-            себя, потому что я верю в твой огромный потенциал❤️ Ты обязательно
-            наберешь необходимое количество баллов, чтобы успешно пройти этот
-            экзамен. Ты сильна и умна, и сделаешь всё, что нужно✊ Удачи тебе,
-            котик, завтра на этом важном испытании! У тебя получиться🤍
+            Smoking cigarettes on the roof
+            <br />
+            You look so pretty and I love this view
+            <br />
+            Don't bother looking down
+            <br />
+            We're not going that way At least I know, I am here to stay
+            <br />
+            We fell in love in October
+            <br />
+            That's why, I love fall
+            <br />
+            Looking at the stars
+            <br />
+            Admiring from afar
+            <br />
+            (My girl, my girl, my girl)
+            <br />
+            My girl, my girl, my girl
+            <br />
+            You will be
+            <br />
+            My girl, my girl, my girl, my girl
+            <br />
+            You will be
+            <br />
+            My world, my world, my world, my world
           </p>
 
           <Link to="/about" className="button">
