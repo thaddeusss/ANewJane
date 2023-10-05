@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mistress/static/css/main.173d53f0.css",
-    "main.js": "/Mistress/static/js/main.ea845097.js",
-    "static/media/girl in red - we fell in love in october.mp3": "/Mistress/static/media/girl in red - we fell in love in october.0b620603715a11e704e4.mp3",
+    "main.js": "/Mistress/static/js/main.41b0b56a.js",
+    "static/media/Steve Lacy - Dark Red.mp3": "/Mistress/static/media/Steve Lacy - Dark Red.6f30efcbf852d49c3528.mp3",
     "static/media/photo32.jpg": "/Mistress/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/Mistress/static/media/photo33.c3a4b80e537f4b438587.jpg",
     "static/media/photo66.jpg": "/Mistress/static/media/photo66.d1a22389f80e6a2748b5.jpg",
@@ -10,13 +10,16 @@
     "static/media/photo65.jpg": "/Mistress/static/media/photo65.380388ced154e55584ae.jpg",
     "static/media/photo31.jpg": "/Mistress/static/media/photo31.20c2b36b1d8b7466d104.jpg",
     "static/media/photo23.jpg": "/Mistress/static/media/photo23.97d81dd974384bbebe96.jpg",
+    "static/media/photo70.jpg": "/Mistress/static/media/photo70.c03dd394c2d7414b562d.jpg",
     "static/media/photo55.jpg": "/Mistress/static/media/photo55.da8af5bb0b5b1b4326b2.jpg",
     "static/media/photo24.jpg": "/Mistress/static/media/photo24.49d48455505bff7d8cc1.jpg",
+    "static/media/photo68.jpg": "/Mistress/static/media/photo68.047cca1f612efcb61e40.jpg",
     "static/media/photo30.jpg": "/Mistress/static/media/photo30.b995de0fea3c068eea47.jpg",
     "static/media/photo35.jpg": "/Mistress/static/media/photo35.1a4a201d472f7b32f084.jpg",
     "static/media/photo21.jpg": "/Mistress/static/media/photo21.9dffe1bd8e1c1ec845f5.jpg",
     "static/media/photo25.jpg": "/Mistress/static/media/photo25.88493cc826b54d9624c0.jpg",
     "static/media/photo34.jpg": "/Mistress/static/media/photo34.f9025ad62e26f71ce650.jpg",
+    "static/media/photo69.jpg": "/Mistress/static/media/photo69.01ac657a2d810d78fc7b.jpg",
     "static/media/photo29.jpg": "/Mistress/static/media/photo29.da23bfa9ecc18c74a239.jpg",
     "static/media/photo1.jpg": "/Mistress/static/media/photo1.7cb290c44751f28567a8.jpg",
     "static/media/photo37.jpg": "/Mistress/static/media/photo37.44e1c94d6f05659099ac.jpg",
@@ -72,10 +75,10 @@
     "static/media/close.svg": "/Mistress/static/media/close.17825c74c3c6b6934429010ee3f913fd.svg",
     "index.html": "/Mistress/index.html",
     "main.173d53f0.css.map": "/Mistress/static/css/main.173d53f0.css.map",
-    "main.ea845097.js.map": "/Mistress/static/js/main.ea845097.js.map"
+    "main.41b0b56a.js.map": "/Mistress/static/js/main.41b0b56a.js.map"
   },
   "entrypoints": [
     "static/css/main.173d53f0.css",
-    "static/js/main.ea845097.js"
+    "static/js/main.41b0b56a.js"
   ]
 }
