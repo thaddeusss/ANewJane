@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../assets/img/photo57.jpg";
+import Profile from "../../assets/img/photo70.jpg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import "./home.css";
@@ -29,33 +29,16 @@ const home = () => {
           </h1>
 
           <p className="home__description">
-            Smoking cigarettes on the roof
+            …don't you give me up, please don't give up <br />
+            On me, I belong, with you, and only you, baabe
             <br />
-            You look so pretty and I love this view
+            Only you, my girl, only you, babe
             <br />
-            Don't bother looking down
+            Only you, darling, only you, babe
             <br />
-            We're not going that way At least I know, I am here to stay
+            Only you, my girl, only you, babe
             <br />
-            We fell in love in October
-            <br />
-            That's why, I love fall
-            <br />
-            Looking at the stars
-            <br />
-            Admiring from afar
-            <br />
-            (My girl, my girl, my girl)
-            <br />
-            My girl, my girl, my girl
-            <br />
-            You will be
-            <br />
-            My girl, my girl, my girl, my girl
-            <br />
-            You will be
-            <br />
-            My world, my world, my world, my world
+            Only you, darling, only you
           </p>
 
           <Link to="/about" className="button">

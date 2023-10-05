@@ -76,6 +76,9 @@ import Work63 from "./assets/img/photo64.jpg";
 import Work64 from "./assets/img/photo65.jpg";
 import Work65 from "./assets/img/photo66.jpg";
 import Work66 from "./assets/img/photo67.jpg";
+import Work67 from "./assets/img/photo68.jpg";
+import Work68 from "./assets/img/photo69.jpg";
+import Work69 from "./assets/img/photo70.jpg";
 
 import Theme1 from "./assets/imgProj/icons8-heart-48.png";
 import Theme2 from "./assets/imgProj/blackred.png";
@@ -289,6 +292,60 @@ export const skills = [
 
 export const Portfolio = [
   ////////////////! new images
+
+  {
+    id: 61,
+    img: Work69,
+    title: "Koi-Tash",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 24, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: " Как эта фотография: необычная, оригинальная и такая же удивительная, как ты сама! Ты умеешь привносить в жизнь свежие краски и радость своей улыбкой... Люблю тебя <3",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work67,
+    title: "Koi-Tash",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 24, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "🌟 В каждом твоём улыбке звезды вспыхивают! 🌟 Твоя красота словно чарующая симфония, а ум, как магнит, притягивает меня к тебе сильнее каждый день.",
+      },
+    ],
+  },
+
+  {
+    id: 60,
+    img: Work68,
+    title: "Koi-Tash",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 24, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты — моя неповторимая звезда в этой бескрайней галактике жизни! 💫💖",
+      },
+    ],
+  },
 
   {
     id: 60,
