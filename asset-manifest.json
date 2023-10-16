@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mistress/static/css/main.173d53f0.css",
-    "main.js": "/Mistress/static/js/main.41b0b56a.js",
-    "static/media/Steve Lacy - Dark Red.mp3": "/Mistress/static/media/Steve Lacy - Dark Red.6f30efcbf852d49c3528.mp3",
+    "main.js": "/Mistress/static/js/main.087806f1.js",
+    "static/media/Abba - Lay All Your Love On Me [vzvuke.net].mp3": "/Mistress/static/media/Abba - Lay All Your Love On Me [vzvuke.net].7e85b3c66501c1b4ee89.mp3",
     "static/media/photo32.jpg": "/Mistress/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/Mistress/static/media/photo33.c3a4b80e537f4b438587.jpg",
     "static/media/photo66.jpg": "/Mistress/static/media/photo66.d1a22389f80e6a2748b5.jpg",
@@ -75,10 +75,10 @@
     "static/media/close.svg": "/Mistress/static/media/close.17825c74c3c6b6934429010ee3f913fd.svg",
     "index.html": "/Mistress/index.html",
     "main.173d53f0.css.map": "/Mistress/static/css/main.173d53f0.css.map",
-    "main.41b0b56a.js.map": "/Mistress/static/js/main.41b0b56a.js.map"
+    "main.087806f1.js.map": "/Mistress/static/js/main.087806f1.js.map"
   },
   "entrypoints": [
     "static/css/main.173d53f0.css",
-    "static/js/main.41b0b56a.js"
+    "static/js/main.087806f1.js"
   ]
 }
