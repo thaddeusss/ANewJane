@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../../assets/img/photo70.jpg";
+import Profile from "../../assets/img/photo75.jpg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import "./home.css";
@@ -29,16 +29,25 @@ const home = () => {
           </h1>
 
           <p className="home__description">
-            …don't you give me up, please don't give up <br />
-            On me, I belong, with you, and only you, baabe
+            Wanting your love to come into me, <br />
+            Feeling it slow, over this dream,
             <br />
-            Only you, my girl, only you, babe
+            Touch me with a kiss,
             <br />
-            Only you, darling, only you, babe
+            Touch me with a kiss,
             <br />
-            Only you, my girl, only you, babe
+            Now you’re above feeling it still,
             <br />
-            Only you, darling, only you
+            Tell me it’s love, tell me it’s real,
+            <br />
+            Touch me with a kiss, feel me on your lips
+            <br />
+            Cuz this is where
+            <br />
+            I wanna be <br />
+            Where it’s so sweet
+            <br />
+            And heavenly
           </p>
 
           <Link to="/about" className="button">

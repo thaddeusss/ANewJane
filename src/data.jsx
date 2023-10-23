@@ -79,6 +79,13 @@ import Work66 from "./assets/img/photo67.jpg";
 import Work67 from "./assets/img/photo68.jpg";
 import Work68 from "./assets/img/photo69.jpg";
 import Work69 from "./assets/img/photo70.jpg";
+import Work70 from "./assets/img/photo71.jpg";
+import Work71 from "./assets/img/photo72.jpg";
+import Work72 from "./assets/img/photo73.jpg";
+import Work73 from "./assets/img/photo74.jpg";
+import Work74 from "./assets/img/photo75.jpg";
+import Work75 from "./assets/img/photo76.jpg";
+import Work76 from "./assets/img/photo77.jpg";
 
 import Theme1 from "./assets/imgProj/icons8-heart-48.png";
 import Theme2 from "./assets/imgProj/blackred.png";
@@ -292,6 +299,130 @@ export const skills = [
 
 export const Portfolio = [
   ////////////////! new images
+  {
+    id: 61,
+    img: Work76,
+    title: "Manas University",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 15, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "О, взгляни, как прекрасно облегает тебя эта майка. Она словно создана для того, чтобы подчеркнуть изящество твоих ключиц и плеч. И твой профиль просто восхитителен.",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work75,
+    title: "Manas University",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "September 21, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты - воплощение нежности.",
+      },
+    ],
+  },
+  {
+    id: 61,
+    img: Work74,
+    title: "Home",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "October 15, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ты с таким искусством выбрала перспективу для этой фотографии. Знаешь ли ты, что ты мое сокровище, моя собственная звезда. Мое солнышко.",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work73,
+    title: "With glasses",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "October 21, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "В этой фотографии царит атмосфера глубины и притягательности, словно серьезный взгляд, который захватывает меня...",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work72,
+    title: "Gym",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "October 21, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "There is no tomorrow))",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work71,
+    title: "Collage",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "October 13, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Черный.",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    img: Work70,
+    title: "With lipstick",
+    details: [
+      {
+        icon: <FaCalendarTimes />,
+        title: "Date : ",
+        desc: "October 11, 2023",
+      },
+      {
+        icon: <FiUser />,
+        title: "Photo : ",
+        desc: "Ваа",
+      },
+    ],
+  },
 
   {
     id: 61,
