@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 const contact = () => {
   const handleClickImg = () => {
     window.open(
-      "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl?si=190a35c34cce4122",
+      "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
       "_blank"
     );
   };
@@ -68,9 +68,8 @@ const contact = () => {
           </h2>
           {/* <h3 className="contact__title">Talk to me</h3> */}
           <p className="home__description">
-            Здесь вы сможете обнаружить чудесные иконки различных социальных
-            сетей! Прикоснитесь к ним и волшебным образом перенесетесь в мои
-            волшебные профили в этих сетях (´｡• ᵕ •｡`)
+            Не колеблясь, обращайся ко мне звонком или словом, дорогая(´｡• ᵕ
+            •｡`)
           </p>
           {/* <div className="contact__info">
               <div className="info__item">
@@ -152,7 +151,7 @@ const contact = () => {
           <p>ClickMe</p>
           <img
             className="world"
-            src="https://images-x324mba9a4.s3.us-east-2.amazonaws.com/20828608/20828608-3.jpg"
+            src="https://i.redd.it/z6pl09gnu3f91.jpg"
             alt="CLICK ME"
             onClick={() => {
               handleClickImg();

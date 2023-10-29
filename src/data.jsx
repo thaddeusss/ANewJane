@@ -87,18 +87,27 @@ import Work74 from "./assets/img/photo75.jpg";
 import Work75 from "./assets/img/photo76.jpg";
 import Work76 from "./assets/img/photo77.jpg";
 
-import Theme1 from "./assets/imgProj/icons8-heart-48.png";
+import Theme1 from "./assets/imgProj/icons8-heart-32.jpg.png";
+// import Theme2 from "./assets/imgProj/icons8-heart-32.png";
+import Theme4 from "./assets/imgProj/icons8-heart-50...png";
+import Theme5 from "./assets/imgProj/icons8-heart-50.....png";
+import Theme6 from "./assets/imgProj/32pink.png";
+import Theme7 from "./assets/imgProj/32green.png";
+import Theme8 from "./assets/imgProj/32blakred.png";
+import Theme9 from "./assets/imgProj/32lightgreen.png";
+import Theme10 from "./assets/imgProj/32yellow.png";
+// import Theme1 from "./assets/imgProj/icons8-heart-48.png";
 import Theme2 from "./assets/imgProj/blackred.png";
-///
+//!
 import Theme3 from "./assets/imgProj/icons8-heart-32..png";
-///
-import Theme4 from "./assets/imgProj/blue.png";
-import Theme5 from "./assets/imgProj/....png";
-import Theme6 from "./assets/imgProj/pink.png";
-import Theme7 from "./assets/imgProj/icons8-heart-48 (1).png";
-import Theme8 from "./assets/imgProj/icons8-heart-48 (2).png";
-import Theme9 from "./assets/imgProj/icons8-heart-48 (3).png";
-import Theme10 from "./assets/imgProj/icons8-heart-48 (4).png";
+//!
+// import Theme4 from "./assets/imgProj/blue.png";
+// import Theme5 from "./assets/imgProj/....png";
+// import Theme6 from "./assets/imgProj/pink.png";
+// import Theme7 from "./assets/imgProj/icons8-heart-48 (1).png";
+// import Theme8 from "./assets/imgProj/icons8-heart-48 (2).png";
+// import Theme9 from "./assets/imgProj/icons8-heart-48 (3).png";
+// import Theme10 from "./assets/imgProj/icons8-heart-48 (4).png";
 
 export const links = [
   {
@@ -187,64 +196,61 @@ export const personalInfo = [
   {
     id: 1,
     title: "First Name : ",
-    description: "Jarkyn",
+    description: "Jarkyn.",
   },
 
   {
     id: 2,
     title: "Last Name : ",
-    description: "Nurbek k.",
+    description: "Zholdubaeva.",
   },
 
   {
     id: 3,
     title: "Age : ",
-    description: "17",
+    description: "17.",
   },
 
-  {
-    id: 4,
-    title: "Address : ",
-    description: "Arashan)",
-  },
+  // {
+  //   id: 4,
+  //   title: "Address : ",
+  //   description: "Arashan)",
+  // },
 
-  {
-    id: 5,
-    title: "Phone : ",
-    description: "Why do you need it, huh?)))",
-  },
+  // {
+  //   id: 5,
+  //   title: "Phone : ",
+  //   description: "Why do you need it, huh?)))",
+  // },
 
   {
     id: 6,
     title: "Langages : ",
-    description: "Russian, Kyrgyz, English",
+    description: "Russian, Kyrgyz, English, Turkish, French.",
   },
 ];
 
 export const stats = [
-  {
-    id: 1,
-    no: "17+",
-    title: "Years on <br /> this planet))",
-  },
-
-  {
-    id: 2,
-    no: "ထ+",
-    title: "In my  <br /> Mind🤭))",
-  },
-
-  {
-    id: 3,
-    no: "???+",
-    title: "With <br /> Me",
-  },
-
-  {
-    id: 4,
-    no: "20+",
-    title: "Poems <br /> published",
-  },
+  // {
+  //   id: 1,
+  //   no: "17+",
+  //   title: "Years on <br /> this planet))",
+  // },
+  // {
+  //   id: 2,
+  //   no: "ထ+",
+  //   title: "In my  <br /> Mind🤭))",
+  // },
+  // {
+  //   id: 3,
+  //   no: "???+",
+  //   title: "With <br /> Me",
+  // },
+  // {
+  //   id: 4,
+  //   no: "20+",
+  //   title: "Poems <br /> published",
+  // },
 ];
 
 export const skills = [
@@ -1670,11 +1676,11 @@ export const Portfolio = [
 ];
 
 export const themes = [
-  {
-    id: 1,
-    img: Theme1,
-    color: "hsl(300, 1%, 85%)",
-  },
+  // {
+  //   id: 1,
+  //   img: Theme1,
+  //   color: "hsl(300, 1%, 85%)",
+  // },
 
   {
     id: 2,
@@ -1690,45 +1696,98 @@ export const themes = [
   },
   ////////!
 
+  // {
+  //   id: 4,
+  //   img: Theme4,
+  //   color: "hsl(218, 30%, 50%)",
+  // },
+
+  // {
+  //   id: 5,
+  //   img: Theme5,
+  //   color: "hsl(186, 35%, 32%)",
+  // },
+
+  // {
+  //   id: 6,
+  //   img: Theme6,
+  //   color: "hsl(329, 100%, 50%)",
+  // },
+
+  // {
+  //   id: 7,
+  //   img: Theme7,
+  //   color: "hsl(181, 90%, 19%)",
+  // },
+
+  // {
+  //   id: 8,
+  //   img: Theme8,
+  //   color: "hsl(212, 100%, 50%)",
+  // },
+
+  // {
+  //   id: 9,
+  //   img: Theme9,
+  //   color: "hsl(0, 100%, 59%)",
+  // },
+
+  // {
+  //   id: 10,
+  //   img: Theme10,
+  //   color: "hsl(289, 78%, 21%)",
+  // },
+  {
+    id: 1,
+    img: Theme1,
+    color: "hsl(252, 35%, 51%)",
+  },
+
+  // {
+  //   id: 2,
+  //   img: Theme2,
+  //   color: "hsl(4, 93%, 54%)",
+  // },
+
   {
     id: 4,
     img: Theme4,
-    color: "hsl(218, 30%, 50%)",
+    color: "hsl(225, 73%, 57%)",
   },
 
   {
     id: 5,
     img: Theme5,
-    color: "hsl(186, 35%, 32%)",
+    color: "hsl(43, 74%, 49%)",
   },
 
   {
     id: 6,
     img: Theme6,
-    color: "hsl(329, 100%, 50%)",
+    color: "hsl(339, 81%, 66%)",
   },
 
   {
     id: 7,
     img: Theme7,
-    color: "hsl(181, 90%, 19%)",
+    color: "hsl(80, 61%, 50%)",
   },
 
   {
     id: 8,
     img: Theme8,
-    color: "hsl(212, 100%, 50%)",
+    color: "hsl(19, 96%, 52%)",
   },
 
   {
     id: 9,
     img: Theme9,
-    color: "hsl(0, 100%, 59%)",
+    color: "hsl(88, 65%, 43%)",
   },
 
   {
     id: 10,
     img: Theme10,
-    color: "hsl(289, 78%, 21%)",
+    color: "hsl(42, 100%, 50%)",
   },
 ];
