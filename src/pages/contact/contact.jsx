@@ -68,7 +68,7 @@ const contact = () => {
           </h2>
           {/* <h3 className="contact__title">Talk to me</h3> */}
           <p className="home__description">
-            Не колеблясь, обращайся ко мне звонком или словом, дорогая(´｡• ᵕ
+            Не колеблясь, обращайся ко мне звонком или посланием, дорогая(´｡• ᵕ
             •｡`)
           </p>
           {/* <div className="contact__info">
