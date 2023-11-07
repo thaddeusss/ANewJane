@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mistress/static/css/main.e7b77e30.css",
-    "main.js": "/Mistress/static/js/main.e97b5d4c.js",
+    "main.js": "/Mistress/static/js/main.3b60cfb6.js",
     "static/media/Keane - Somewhere only we know.mp3": "/Mistress/static/media/Keane - Somewhere only we know.f1550dafeff2cff0cc96.mp3",
     "static/media/photo32.jpg": "/Mistress/static/media/photo32.95e96069f694f35c0f9a.jpg",
     "static/media/photo33.jpg": "/Mistress/static/media/photo33.c3a4b80e537f4b438587.jpg",
@@ -82,10 +82,10 @@
     "static/media/close.svg": "/Mistress/static/media/close.17825c74c3c6b6934429010ee3f913fd.svg",
     "index.html": "/Mistress/index.html",
     "main.e7b77e30.css.map": "/Mistress/static/css/main.e7b77e30.css.map",
-    "main.e97b5d4c.js.map": "/Mistress/static/js/main.e97b5d4c.js.map"
+    "main.3b60cfb6.js.map": "/Mistress/static/js/main.3b60cfb6.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b77e30.css",
-    "static/js/main.e97b5d4c.js"
+    "static/js/main.3b60cfb6.js"
   ]
 }
