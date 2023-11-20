@@ -6,7 +6,7 @@ import { BsSun, BsMoon } from "react-icons/bs";
 import "./themes.css";
 import { useState } from "react";
 import { useEffect } from "react";
-import song from "../assets/music/Keane - Somewhere only we know.mp3";
+import song from "../assets/music/The Black Skirts - everything.mp3";
 
 const getStorageColor = () => {
   let color = "hsl(4, 93%, 54%)";
